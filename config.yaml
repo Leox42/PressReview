@@ -1,0 +1,12 @@
+QUERIES:
+  query_list: ['Homomorphic Encryption',
+               'Artificial Intelligence',
+               'Federated Learning',
+               'Explainable AI',
+               'Blockchain',
+  ]
+PARAMS:
+  max_results: 20
+CREDENTIALS:
+  email:
+  api_pubmed:
