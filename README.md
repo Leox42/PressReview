@@ -1,6 +1,6 @@
 # PressReview
-A small and fast library for searching queries on online scientific portals.
-## Install
+A small and fast library for searching queries on online scientific portals (so far, PubMed supported).
+## Installation
 1. Run in terminal:
 ```
 git clone https://github.com/Leox42/PressReview.git
