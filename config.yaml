@@ -1,9 +1,6 @@
 QUERIES:
-  query_list: ['Homomorphic Encryption',
-               'Artificial Intelligence',
-               'Federated Learning',
+  query_list: ['Artificial Intelligence',
                'Explainable AI',
-               'Blockchain',
   ]
 PARAMS:
   max_results: 20
