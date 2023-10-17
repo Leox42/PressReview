@@ -1,0 +1,4 @@
+Bio==1.5.9
+pandas==2.1.1
+PyYAML==6.0
+PyYAML==6.0.1
