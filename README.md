@@ -1,7 +1,7 @@
 # PressReview
 A small and fast library for searching queries on online scientific portals (so far, PubMed supported).
 ## Example page
-![html_demo](https://github.com/Leox42/PressReview/assets/132593863/71fa72b9-9029-49b8-b703-e02c3c4f5747)
+![html_demo](https://github.com/Leox42/PressReview/assets/132593863/f76ad60c-4c5d-4fce-921c-06a197540dee)
 ## Installation
 1. Run in terminal:
 ```
